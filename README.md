@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-Bu repo [Kodluyoruz][https://www.kodluyoruz.org/] Eğitimi kapsamında açtığım ilk repo
+Bu repo [Patika][https://www.patika.dev/] Eğitimi kapsamında açtığım ilk repo
 
 ![Project!](hi.png)
 
